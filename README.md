@@ -63,7 +63,7 @@ motto: "bug today, fix tomorrow!"
 <h2 align="center">Thanks for Visiting! 🎉</h2>
 
 <p align="center">
-  <img src="https://i.imgur.com/BANPcfd.jpeg" width="300" alt="Thank You">
+  <img src="https://files.catbox.moe/ghqk73.jpg" width="300" alt="Thank You">
 </p>
 
 <sup>Still learning, still struggling, but never stopping!</sup> 
