@@ -5,10 +5,12 @@
 <h1 align="center">🚀 Hey there, I'm <a href="#">Tama Ryuichi</a>! 👋</h1>
 
 <p align="center">
-<img src="https://files.catbox.moe/ogp5wn.webp" width="80">
+<img src="https://files.catbox.moe/10y5lv.jpg" width="150">
 </p>
 
-<h3 align="center">sleeping 😴</h3>
+<h3 align="center">I'm just a kid who's still learning about JavaScript, HTML, and CSS.
+
+</h3>
 
 ---
 
@@ -17,8 +19,9 @@
 ```yaml
 name: "Tama Ryuichi"
 age: "???"
+gender : "???"
 status: "student"
-hobbies: "sleeping is my hobby"
+hobby: "sleeping is my hobby"
 motto: "bug today, fix tomorrow!"
 ```
 
