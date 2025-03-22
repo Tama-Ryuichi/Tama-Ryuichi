@@ -5,14 +5,62 @@
 <h1 align="center">🚀 Hey there, I'm <a href="#">Tama Ryuichi</a>! 👋</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80">
+<img src="https://files.catbox.moe/ogp5wn.webp" width="80">
 </p>
 
-<h3 align="center">💻 Code | 🎵 Music | 🎮 Games</h3>
+<h3 align="center">sleeping 😴</h3>
 
-### 🧐 About Me:
-name: "Tama Ryuichi",
-age: "???",
-status: "student",
-hobbies: ["sleeping is my hobby"],
-motto: "bug today, fix tomorrow!",
+---
+
+## 🧐 About Me:
+
+```yaml
+name: "Tama Ryuichi"
+age: "???"
+status: "student"
+hobbies: "sleeping is my hobby"
+motto: "bug today, fix tomorrow!"
+```
+
+---
+
+## 🔥 Tech Stack:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,html,css" />
+</p>
+
+---
+
+## 🎮 Skills & Expertise:
+
+```yaml
+🟨 JavaScript: [■■■■■■■■□□] (75%)
+🟧 HTML:       [■■■■■■■■□□] (75%)
+🟦 CSS:        [■■■■■■■■□□] (75%)
+```
+
+---
+
+## 📬 Contact Me:
+
+<p align="center">
+  <a href="https://t.me/tamainfinity">
+    <img src="https://img.shields.io/badge/Telegram-%230077B5.svg?style=for-the-badge&logo=telegram&logoColor=white">
+  </a>
+  <a href="mailto:tamaryuichix@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://github.com/Tama-Ryuichi">
+    <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
+
+---
+
+<h2 align="center">Thanks for Visiting! 🎉</h2>
+
+<p align="center">
+  <img src="https://i.imgur.com/BANPcfd.jpeg" width="300" alt="Thank You">
+</p>
+
+<sup>Still learning, still struggling, but never stopping!</sup> 🚀
