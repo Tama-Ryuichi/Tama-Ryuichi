@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views">
 </div>
 
-<h1 align="center">🚀 Hey there, I'm <a href="#">Tama Ryuichi</a>! 👋</h1>
+<h1 align="center">Hey there, I'm <a href="#">Tama Ryuichi</a>! 👋</h1>
 
 <p align="center">
 <img src="https://files.catbox.moe/10y5lv.jpg" width="150">
@@ -14,7 +14,7 @@
 
 ---
 
-## 🧐 About Me:
+## About Me:
 
 ```yaml
 name: "Tama Ryuichi"
@@ -27,14 +27,14 @@ motto: "bug today, fix tomorrow!"
 
 ---
 
-## 🔥 Tech Stack:
+## Tech Stack:
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,html,css" />
 </p>
 
 ---
 
-## 🎮 Skills & Expertise:
+## Skills & Expertise:
 
 ```yaml
 🟨 JavaScript: [■■■■■■■■□□] (75%)
@@ -44,7 +44,7 @@ motto: "bug today, fix tomorrow!"
 
 ---
 
-## 📬 Contact Me:
+## Contact Me:
 
 <p align="center">
   <a href="https://t.me/tamainfinity">
@@ -66,4 +66,4 @@ motto: "bug today, fix tomorrow!"
   <img src="https://i.imgur.com/BANPcfd.jpeg" width="300" alt="Thank You">
 </p>
 
-<sup>Still learning, still struggling, but never stopping!</sup> 🚀
+<sup>Still learning, still struggling, but never stopping!</sup> 
