@@ -11,11 +11,9 @@
 <h3 align="center">💻 Code | 🎵 Music | 🎮 Games</h3>
 
 ### 🧐 About Me:
-const dev = {
+
   name: "Tama Ryuichi",
   age: "???",
-  status: "Aspiring Developer",
-  hobbies: ["Coding", "Listening to Music", "Gaming"],
-  favorite_bands: ["Killing Me Inside", "Rocket Rockers", "Alone At Last"],
-  motto: "Bug today, fix tomorrow!",
-};
+  status: "student",
+  hobbies: ["sleeping is my hobby"],
+  motto: "bug today, fix tomorrow!",
