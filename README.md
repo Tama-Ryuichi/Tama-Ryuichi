@@ -22,7 +22,7 @@ age: "???"
 gender : "???"
 status: "student"
 hobby: "sleeping is my hobby"
-motto: "bug today, fix tomorrow!"
+motto: "malas!"
 ```
 
 ---
